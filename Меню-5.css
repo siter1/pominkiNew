@@ -1,4 +1,4 @@
- .u-section-1 {
+  .u-section-1 {
   background-image: url("images/1614440259_36-p-temnii-derevyannii-fon-60.jpg");
   background-position: 50% 50%;
 }
@@ -35,6 +35,12 @@
   margin: 103px 0 0;
 }
 
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 35px auto 0;
+}
+
 .u-section-1 .u-carousel-item-2 {
   margin-top: 0;
   margin-bottom: 0;
@@ -44,15 +50,9 @@
   padding: 30px 80px;
 }
 
-.u-section-1 .u-text-2 {
+.u-section-1 .u-text-3 {
   font-size: 1.25rem;
   margin: 103px 0 0;
-}
-
-.u-section-1 .u-text-3 {
-  font-size: 1rem;
-  font-weight: 400;
-  margin: 35px auto 0;
 }
 
 .u-section-1 .u-carousel-item-3 {
@@ -221,7 +221,7 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-text-2 {
+  .u-section-1 .u-text-3 {
     font-size: 1.125rem;
   }
 
@@ -241,6 +241,8 @@
 
   .u-section-1 .u-text-6 {
     font-size: 1.125rem;
+    width: auto;
+    margin-top: 14px;
   }
 
   .u-section-1 .u-container-layout-5 {
@@ -250,5 +252,13 @@
 
   .u-section-1 .u-text-8 {
     font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-carousel-control-1 {
+    padding: 9px;
+  }
+
+  .u-section-1 .u-carousel-control-2 {
+    padding: 9px;
   }
 }
